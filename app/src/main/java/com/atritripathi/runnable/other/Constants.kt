@@ -7,4 +7,6 @@ object Constants {
     const val DISTANCE_IN_METERS = "distanceInMeters"
     const val TIME_IN_MILLIS = "timeInMillis"
     const val CALORIES_BURNED = "caloriesBurned"
+
+    const val REQUEST_CODE_LOCATION_PERMISSION = 0
 }
