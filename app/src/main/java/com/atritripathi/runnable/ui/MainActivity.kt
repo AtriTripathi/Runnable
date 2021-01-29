@@ -1,7 +1,8 @@
-package com.atritripathi.runnable
+package com.atritripathi.runnable.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.atritripathi.runnable.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
